@@ -1898,7 +1898,7 @@ fixed
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #30fff9;
+  background: #3744db;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2738,7 +2738,7 @@ embed {
 }
 .post {
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 80px;
   padding: 25px;
   -webkit-box-shadow: 0 0 5px #cacbcb;
   -moz-box-shadow: 0 0 5px #cacbcb;
