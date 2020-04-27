@@ -1898,7 +1898,7 @@ fixed
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #7e11d9;
+  background: #6cee13;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2996,7 +2996,6 @@ body {
 }
 .main-inner {
   main-top: 60px;
-  margin-bottom: 75px;
   padding: 25px 25px 25px 25px;
   background: #fff;
   opacity: 0.75;
