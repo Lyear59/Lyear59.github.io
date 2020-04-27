@@ -1898,7 +1898,7 @@ fixed
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffbaff;
+  background: #d1ffcf;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2754,6 +2754,6 @@ body {
   main-top: 60px;
   padding: 25px 25px 25px 25px;
   background: #fff;
-  opacity: 0.8;
+  opacity: 0.75;
   min-height: 500px;
 }
