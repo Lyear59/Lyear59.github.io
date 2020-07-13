@@ -14,7 +14,7 @@
   <entry>
     <title>高校信息爬虫</title>
     <url>/2020/07/07/%E9%AB%98%E6%A0%A1%E4%BF%A1%E6%81%AF%E7%88%AC%E8%99%AB/</url>
-    <content><![CDATA[<h1 id="高校信息爬虫"><a href="#高校信息爬虫" class="headerlink" title="高校信息爬虫"></a>高校信息爬虫</h1><h3 id="一、目标-目的"><a href="#一、目标-目的" class="headerlink" title="一、目标/目的"></a>一、目标/目的</h3><p>从<a href="https://gaokao.chsi.com.cn/sch/search--ss-on,option-qg,searchType-1,start-0.dhtml" target="_blank" rel="noopener">学信网的院校信息库</a>中爬取国内高校的信息：学校名称、校徽图片、所在地、类型（综合/工科/医科、92、双一流等），并存储下来。</p>
+    <content><![CDATA[<h3 id="一、目标-目的"><a href="#一、目标-目的" class="headerlink" title="一、目标/目的"></a>一、目标/目的</h3><p>从<a href="https://gaokao.chsi.com.cn/sch/search--ss-on,option-qg,searchType-1,start-0.dhtml" target="_blank" rel="noopener">学信网的院校信息库</a>中爬取国内高校的信息：学校名称、校徽图片、所在地、类型（综合/工科/医科、92、双一流等），并存储下来。</p>
 <h3 id="二、遇到的坑"><a href="#二、遇到的坑" class="headerlink" title="二、遇到的坑"></a>二、遇到的坑</h3><ol>
 <li>同一网页（部分院校主要信息页面，以<a href="https://gaokao.chsi.com.cn/sch/schoolInfoMain--schId-1.dhtml" target="_blank" rel="noopener">北京大学</a>为例）电脑端和手机端显示的内容不一样：手机端全都是显示该学校的校徽，而电脑端上，有些学校显示的是校徽，而有些显示的是该学校某个建筑的照片。</li>
 </ol>
